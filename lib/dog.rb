@@ -1,6 +1,6 @@
-class Person 
+class Dog 
   def initilization(name="Mutt")
-  @name = name
+  @name = breed
   end 
 end 
 
