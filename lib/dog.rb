@@ -1,5 +1,6 @@
 class Person 
-  def initilization(name)
+  def initilization(name="Mutt")
 
   end 
 end 
+
